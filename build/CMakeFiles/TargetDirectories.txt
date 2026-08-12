@@ -1,0 +1,4 @@
+/home/pa5/Downloads/CppCalculator_CPP_Android/build/CMakeFiles/CppCalculator.dir
+/home/pa5/Downloads/CppCalculator_CPP_Android/build/CMakeFiles/edit_cache.dir
+/home/pa5/Downloads/CppCalculator_CPP_Android/build/CMakeFiles/rebuild_cache.dir
+/home/pa5/Downloads/CppCalculator_CPP_Android/build/CMakeFiles/CppCalculator_autogen.dir

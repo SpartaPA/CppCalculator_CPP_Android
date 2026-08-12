@@ -1,0 +1,24 @@
+# ninja log v5
+0	260	1786503192894050690	CppCalculator_autogen/timestamp	5815b7cd9512e2c7
+0	260	1786503192894050690	CppCalculator_autogen/mocs_compilation.cpp	5815b7cd9512e2c7
+0	260	1786503192894050690	/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CppCalculator_autogen/timestamp	5815b7cd9512e2c7
+0	260	1786503192894050690	/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CppCalculator_autogen/mocs_compilation.cpp	5815b7cd9512e2c7
+262	266	1786503192905050439	meta_types/CppCalculator_json_file_list.txt	2e4cbd82fa199816
+262	266	1786503192905050439	meta_types/CppCalculator_json_file_list.txt.timestamp	2e4cbd82fa199816
+262	266	1786503192905050439	/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/meta_types/CppCalculator_json_file_list.txt	2e4cbd82fa199816
+262	266	1786503192905050439	/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/meta_types/CppCalculator_json_file_list.txt.timestamp	2e4cbd82fa199816
+266	270	1786503192909050348	meta_types/qt6cppcalculator_metatypes.json.gen	70871ed819d1bffc
+266	270	1786503192909050348	meta_types/qt6cppcalculator_metatypes.json	70871ed819d1bffc
+266	270	1786503192909050348	/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/meta_types/qt6cppcalculator_metatypes.json.gen	70871ed819d1bffc
+266	270	1786503192909050348	/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/meta_types/qt6cppcalculator_metatypes.json	70871ed819d1bffc
+270	1018	1786503193647033549	CMakeFiles/CppCalculator.dir/src/calculator_engine.cpp.o	f01e759569b7e79d
+270	1262	1786503193897027858	CMakeFiles/CppCalculator.dir/CppCalculator_autogen/mocs_compilation.cpp.o	dd0f948c339ff1ef
+270	1378	1786503194012025241	CMakeFiles/CppCalculator.dir/src/calculator_window.cpp.o	79adf16c809a4a0a
+270	1426	1786503194061024126	CMakeFiles/CppCalculator.dir/src/main.cpp.o	758b40157c1c6666
+1426	1459	1786503194096023330	libCppCalculator_arm64-v8a.so	3a1ea76b90df6d83
+1459	1463	0	CMakeFiles/CppCalculator_prepare_apk_dir	f3784fcdd4c47d94
+1459	1463	0	/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CMakeFiles/CppCalculator_prepare_apk_dir	f3784fcdd4c47d94
+1463	87589	1786503280217108560	android-build/CppCalculator.apk	e514463d6080b6ec
+1463	87589	1786503280217108560	/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/CppCalculator.apk	e514463d6080b6ec
+2	6	0	CMakeFiles/CppCalculator_prepare_apk_dir	f3784fcdd4c47d94
+2	6	0	/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CMakeFiles/CppCalculator_prepare_apk_dir	f3784fcdd4c47d94

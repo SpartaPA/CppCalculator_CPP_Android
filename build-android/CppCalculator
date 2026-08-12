@@ -1,0 +1,8 @@
+#!/bin/sh
+
+/home/pa5/Qt/6.11.1/gcc_64/libexec/qt-android-runner.py \
+    --adb "/home/pa5/Android/Sdk/platform-tools/adb" \
+    --build-path "/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build" \
+    --apk "/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/CppCalculator.apk" \
+    $@
+

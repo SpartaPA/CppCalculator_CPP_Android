@@ -1,0 +1,1 @@
+/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CppCalculator_autogen/include/../UVLADIE3JM/moc_calculator_window.cpp.json

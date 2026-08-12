@@ -1,0 +1,16 @@
+/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CMakeFiles/apk.dir
+/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CMakeFiles/aab.dir
+/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CMakeFiles/aar.dir
+/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CMakeFiles/CppCalculator.dir
+/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CMakeFiles/CppCalculator_copy_apk_dependencies.dir
+/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CMakeFiles/_qt_internal_apk_dependencies.dir
+/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CMakeFiles/qt_internal_plugins.dir
+/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CMakeFiles/CppCalculator_prepare_apk_dir.dir
+/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CMakeFiles/CppCalculator_make_apk.dir
+/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CMakeFiles/CppCalculator_make_aar.dir
+/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CMakeFiles/CppCalculator_make_aab.dir
+/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CMakeFiles/apk_all.dir
+/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CMakeFiles/edit_cache.dir
+/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CMakeFiles/rebuild_cache.dir
+/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CMakeFiles/CppCalculator_autogen_timestamp_deps.dir
+/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/CMakeFiles/CppCalculator_autogen.dir

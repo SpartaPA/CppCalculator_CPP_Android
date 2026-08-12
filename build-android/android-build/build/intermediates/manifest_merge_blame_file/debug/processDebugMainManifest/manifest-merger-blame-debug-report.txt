@@ -1,0 +1,169 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.qtproject.example.CppCalculator"
+4    android:installLocation="auto"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="28"
+10        android:targetSdkVersion="36" />
+11
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:7:5-68
+12-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:8:5-82
+13-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:8:22-78
+14
+15    <supports-screens
+15-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:9:5-13:39
+16        android:anyDensity="true"
+16-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:10:9-34
+17        android:largeScreens="true"
+17-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:11:9-36
+18        android:normalScreens="true"
+18-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:12:9-37
+19        android:smallScreens="true" />
+19-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:13:9-36
+20
+21    <permission
+21-->[androidx.core:core:1.17.0] /home/pa5/.gradle/caches/9.3.1/transforms/b51518a94f09ee8117d69f5260ad0efa/transformed/core-1.17.0/AndroidManifest.xml:22:5-24:47
+22        android:name="org.qtproject.example.CppCalculator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+22-->[androidx.core:core:1.17.0] /home/pa5/.gradle/caches/9.3.1/transforms/b51518a94f09ee8117d69f5260ad0efa/transformed/core-1.17.0/AndroidManifest.xml:23:9-81
+23        android:protectionLevel="signature" />
+23-->[androidx.core:core:1.17.0] /home/pa5/.gradle/caches/9.3.1/transforms/b51518a94f09ee8117d69f5260ad0efa/transformed/core-1.17.0/AndroidManifest.xml:24:9-44
+24
+25    <uses-permission android:name="org.qtproject.example.CppCalculator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+25-->[androidx.core:core:1.17.0] /home/pa5/.gradle/caches/9.3.1/transforms/b51518a94f09ee8117d69f5260ad0efa/transformed/core-1.17.0/AndroidManifest.xml:26:5-97
+25-->[androidx.core:core:1.17.0] /home/pa5/.gradle/caches/9.3.1/transforms/b51518a94f09ee8117d69f5260ad0efa/transformed/core-1.17.0/AndroidManifest.xml:26:22-94
+26
+27    <application
+27-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:14:5-51:19
+28        android:name="org.qtproject.qt.android.bindings.QtApplication"
+28-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:15:9-71
+29        android:allowBackup="true"
+29-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:19:9-35
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.17.0] /home/pa5/.gradle/caches/9.3.1/transforms/b51518a94f09ee8117d69f5260ad0efa/transformed/core-1.17.0/AndroidManifest.xml:28:18-86
+31        android:debuggable="true"
+32        android:enableOnBackInvokedCallback="false"
+32-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:18:9-52
+33        android:extractNativeLibs="true"
+34        android:fullBackupOnly="false"
+34-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:20:9-39
+35        android:hardwareAccelerated="true"
+35-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:16:9-43
+36        android:label="CppCalculator" >
+36-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:17:9-38
+37        <activity
+37-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:21:9-40:20
+38            android:name="org.qtproject.qt.android.bindings.QtActivity"
+38-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:22:13-72
+39            android:configChanges="orientation|uiMode|screenLayout|screenSize|smallestScreenSize|layoutDirection|locale|fontScale|keyboard|keyboardHidden|navigation|mcc|mnc|density"
+39-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:23:13-182
+40            android:exported="true"
+40-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:27:13-36
+41            android:label="CppCalculator"
+41-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:24:13-42
+42            android:launchMode="singleTop"
+42-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:25:13-43
+43            android:screenOrientation="unspecified" >
+43-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:26:13-52
+44            <intent-filter>
+44-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:28:13-31:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:29:17-69
+45-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:29:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:30:17-77
+47-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:30:27-74
+48            </intent-filter>
+49
+50            <meta-data
+50-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:33:11-35:49
+51                android:name="android.app.lib_name"
+51-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:34:17-52
+52                android:value="CppCalculator" />
+52-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:35:17-46
+53            <meta-data
+53-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:37:11-39:36
+54                android:name="android.app.arguments"
+54-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:38:17-53
+55                android:value="" />
+55-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:39:17-33
+56        </activity>
+57
+58        <provider
+59            android:name="androidx.core.content.FileProvider"
+59-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:43:13-62
+60            android:authorities="org.qtproject.example.CppCalculator.qtprovider"
+60-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:44:13-62
+61            android:exported="false"
+61-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:45:13-37
+62            android:grantUriPermissions="true" >
+62-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:46:13-47
+63            <meta-data
+63-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:47:13-49:59
+64                android:name="android.support.FILE_PROVIDER_PATHS"
+64-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:48:17-67
+65                android:resource="@xml/qtprovider_paths" />
+65-->/home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-build/AndroidManifest.xml:49:17-57
+66        </provider>
+67        <provider
+67-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+68            android:name="androidx.startup.InitializationProvider"
+68-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:25:13-67
+69            android:authorities="org.qtproject.example.CppCalculator.androidx-startup"
+69-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:26:13-68
+70            android:exported="false" >
+70-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:27:13-37
+71            <meta-data
+71-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+72                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+72-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+73                android:value="androidx.startup" />
+73-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+74        </provider>
+75
+76        <receiver
+76-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+77            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+77-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+78            android:directBootAware="false"
+78-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+79            android:enabled="true"
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+80            android:exported="true"
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+81            android:permission="android.permission.DUMP" >
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+82            <intent-filter>
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+83                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+84            </intent-filter>
+85            <intent-filter>
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+86                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+87            </intent-filter>
+88            <intent-filter>
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+89                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+90            </intent-filter>
+91            <intent-filter>
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+92                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/pa5/.gradle/caches/9.3.1/transforms/6ab7f5f5006f8c4219f933de6cc03e9c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+93            </intent-filter>
+94        </receiver>
+95    </application>
+96
+97</manifest>

@@ -1,0 +1,24 @@
+android-build/CppCalculator.apk:  \
+    /home/pa5/Downloads/CppCalculator_CPP_Android/build-android/android-CppCalculator-deployment-settings.json \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/src/3rdparty/gradle/gradle/wrapper/gradle-wrapper.jar \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/src/3rdparty/gradle/gradle/wrapper/gradle-wrapper.properties \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/src/3rdparty/gradle/gradle.properties \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/src/3rdparty/gradle/gradlew \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/src/3rdparty/gradle/gradlew.bat \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/src/android/templates/AndroidManifest.xml \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/src/android/templates/build.gradle \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/src/android/templates/res/values/libs.xml \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/src/android/templates/res/xml/qtprovider_paths.xml \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/lib/libQt6Core_arm64-v8a.so \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/lib/libQt6Gui_arm64-v8a.so \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/lib/libQt6Widgets_arm64-v8a.so \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/jar/Qt6Android.jar \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/plugins/styles/libplugins_styles_qandroidstyle_arm64-v8a.so \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/plugins/platforms/libplugins_platforms_qtforandroid_arm64-v8a.so \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/plugins/imageformats/libplugins_imageformats_qgif_arm64-v8a.so \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/plugins/imageformats/libplugins_imageformats_qico_arm64-v8a.so \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/plugins/imageformats/libplugins_imageformats_qjpeg_arm64-v8a.so \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/lib/libQt6Svg_arm64-v8a.so \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/plugins/iconengines/libplugins_iconengines_qsvgicon_arm64-v8a.so \
+    /home/pa5/Qt/6.11.1/android_arm64_v8a/plugins/imageformats/libplugins_imageformats_qsvg_arm64-v8a.so \
+    /home/pa5/Android/Sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib//aarch64-linux-android/libc++_shared.so

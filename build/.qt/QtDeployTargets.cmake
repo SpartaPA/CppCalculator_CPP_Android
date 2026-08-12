@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_CppCalculator_FILE /home/pa5/Downloads/CppCalculator_CPP_Android/build/CppCalculator)
+set(__QT_DEPLOY_TARGET_CppCalculator_TYPE EXECUTABLE)
